@@ -6,7 +6,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(480, 420);
+  createCanvas(700, 600);
   background("#FFB06F");
   // textFont(font);
   // textSize(192);
@@ -14,7 +14,7 @@ function setup() {
   // noStroke();
   // text('train', 100, 200);
 
-  var points = font.textToPoints('IMPULSO', 93, 240, 63, {
+  var points = font.textToPoints('IMPULSO', 193, 440, 63, {
     sampleFactor: 4
   });
   
