@@ -14,7 +14,7 @@ function setup() {
   // noStroke();
   // text('train', 100, 200);
 
-  var points = font.textToPoints('IMPULSO', 193, 440, 63, {
+  var points = font.textToPoints('IMPULSO', 193, 340, 63, {
     sampleFactor: 4
   });
   
